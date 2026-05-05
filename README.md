@@ -1,5 +1,6 @@
 # Real-Time Handwritten Digit Recognition (NumPy + OpenCV)
 Real-time handwritten digit recognition using a neural network built from scratch (NumPy) with OpenCV webcam integration and MNIST-based preprocessing.
+<img src="output/Screenshot 2026-05-05 101506.png" >
 A from-scratch neural network (no TensorFlow/PyTorch) that recognizes handwritten digits in real-time using a webcam. The model is trained on the MNIST dataset and performs live inference on user-drawn digits inside a camera frame.
 <h2>🚀Features</h2>
 <ol><li>Fully implemented Neural Network from scratch (NumPy only)</li>
@@ -96,3 +97,4 @@ Building neural networks from scratch</li>
 
 <h2>📜 License</h2>
 Open-source
+<img src="output/Screenshot 2026-05-05 101414.png" >
